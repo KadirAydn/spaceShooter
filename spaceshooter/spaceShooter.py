@@ -557,4 +557,5 @@ while running:
     ## Done after drawing everything to the screen
     pygame.display.flip()       
 
+#finish
 pygame.quit()
